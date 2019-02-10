@@ -88,6 +88,11 @@ hr {
 nav li {
     font-size: 19px;
     color: #646e7e;
+    list-style: square;
+    list-style-position: outside;
+    list-style-image: none;
+    list-style-type: square;
+    margin-left: -1.8vw;
 }
 
 .button {
